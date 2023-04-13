@@ -3,7 +3,7 @@
 
 Fast YouTube Video Downloader for Windows
 
-[![download](https://img.shields.io/badge/-DOWNLOAD%20NOW-red?style=for-the-badge)](https://github.com/ehamawy/DLMan/releases/download/Release-1/DLMan.zip)
+[![download](https://img.shields.io/badge/-DOWNLOAD%20NOW-red?style=for-the-badge)](https://github.com/ehamawy/DLMan/releases/download/Release-2/DLMan.zip)
 ## Features
 
 - 4x Faster Than Other Downloaders
@@ -11,6 +11,7 @@ Fast YouTube Video Downloader for Windows
 - HD Thumbnail Downloader
 - Downloads Playlists
 - Download from Batch Files
+- Download from hundreds of sites, not just YouTube
 - **Made Super Poorly lmao**
 - **Windows Only**
 ## Screenshots
@@ -22,5 +23,8 @@ Fast YouTube Video Downloader for Windows
 
 - yt-dlp
 - yt-dl
+- phantomjs
+- ffmpeg
+- Moebius ANSI Art Editor
 
 This is in the Public Domain
